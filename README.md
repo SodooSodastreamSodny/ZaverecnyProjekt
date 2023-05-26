@@ -1,9 +1,10 @@
 # ZaverecnyProjekt
-##Hra Kámen Nůžky Papír
+
+
+    ##Hra Kámen Nůžky Papír
 
 Toto je jednoduchá konzolová hra Kámen Nůžky Papír implementovaná v jazyce C#. Hra umožňuje hráči hrát proti počítačovému protihráči.
 #Jak hrát
-
     Hra začíná s počátečním skóre 0 pro hráče i počítačového protihráče.
     V každém kole je hráč vyzván k zvolení svého tahu:
         Zadejte "1" pro kámen
